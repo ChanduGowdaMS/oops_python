@@ -25,8 +25,6 @@ class son(father):
         self.display_property2()
         self.display_property1()
 
-son_obj=son("bike","Car","house")
-
-
-son_obj.display_property3()
+obj1=son("bike","Car","house")
+obj1.display_property3()
 

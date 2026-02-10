@@ -19,5 +19,7 @@ class Student:
         print(self.is_pass(mark))
 
 obj=Student("chandu", 12)
-obj.display(35)   
+obj.display(69)   
+obj1=Student("gowda", 2)
+obj1.display(34)   
 Student.change_college("XYZ College")
